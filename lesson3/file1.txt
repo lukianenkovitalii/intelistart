@@ -1,7 +1,12 @@
 1) Monday
 2) Tuesday
+<<<<<<< HEAD
 3) Wednesday
 <<<<<<< HEAD
 4) Thursday
 =======
 >>>>>>> b79a5a1236ca4312f9c140f1a4e259ec81cc9f1a
+=======
+
+4) Thursday
+>>>>>>> fc95f2845ae3be5f1b0a4fd1397d9e8c26a51586
