@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-10T07:29:52.370Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="soWBN06Rht6Q_JNjIVQM" version="19.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-10T07:31:13.120Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="NuENIgEG8pEqGzSZL2fO" version="19.0.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="429" dy="480" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -181,7 +181,7 @@
         <mxCell id="3MlW7a7m4-4Wf8XBK3I5-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3MlW7a7m4-4Wf8XBK3I5-24" target="3MlW7a7m4-4Wf8XBK3I5-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3MlW7a7m4-4Wf8XBK3I5-24" value="Виведене натуральне число x = 0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="3MlW7a7m4-4Wf8XBK3I5-24" value="Виведене натуральне число, що діляться на N x = 0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="212.5" y="1360" width="135" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3MlW7a7m4-4Wf8XBK3I5-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3MlW7a7m4-4Wf8XBK3I5-26" target="3MlW7a7m4-4Wf8XBK3I5-28">
