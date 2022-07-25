@@ -21,7 +21,7 @@ var (
 	thePriceOfAnApple float64 = 5.99
 	thePriceOfaPear   float64 = 7
 	myWholeMoney      float64 = 23
-	iNeedMoney        float64
+	//iNeedMoney        float64
 )
 
 func main() {
